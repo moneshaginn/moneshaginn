@@ -2,13 +2,13 @@
 <h2>👩🏾‍💻 Software Development Projects:</h2>
 
 - <b>Landing Page</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+  - [null](https://github.com/)
 
 - <b>Game</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+  - [null](https://github.com/)
   
  - <b>Web 3 Project</b>
-   - [Praciting DS & Algos in Python](https://github.com/)
+   - [null](https://github.com/)
   
 <h2>📄 Certifications </h2>
 
