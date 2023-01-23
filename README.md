@@ -1,14 +1,14 @@
 <h1>Hi, I'm Monesha! <br/>
 <h2>👩🏾‍💻 Software Development Projects:</h2>
 
-- <b>PROJECT 1</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Landing Page</b>
+  - [Praciting DS & Algos in Python](https://github.com/)
 
-- <b>PROJECT 2</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Game</b>
+  - [Praciting DS & Algos in Python](https://github.com/)
   
- - <b>PROJECT 3</b>
-   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ - <b>Web 3 Project</b>
+   - [Praciting DS & Algos in Python](https://github.com/)
   
 <h2>📄 Certifications </h2>
 
@@ -16,9 +16,9 @@
 
 <h2>📺 YouTube Videos: Project Walthroughs</h2>
 
-- [Project 1 Walkthrough](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Project 2 Walkthrough](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Project 3 Walkthrough](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Project 1 Walkthrough]()
+- [Project 2 Walkthrough]()
+- [Project 3 Walkthrough]()
   
 <h2>🤳🏾 Connect with me:</h2>
 
