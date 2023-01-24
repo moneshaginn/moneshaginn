@@ -1,10 +1,10 @@
 <h1>Hi, I'm Monesha! <br/>
 <h2>👩🏾‍💻 Software Development Projects:</h2>
 
-- <b>Landing Page</b>
+- <b>Insulin Calculator</b>
   - [null](https://github.com/)
 
-- <b>Game</b>
+- <b>BoddleKap Game</b>
   - [null](https://github.com/)
   
  - <b>Web 3 Project</b>
